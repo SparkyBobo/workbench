@@ -8,10 +8,8 @@ These projects generally have a deliberately limited scope and reach. They have 
 
 - **Cool Puck** — A small device that uses indoor conditions and weather forecasts to help decide when to open or close a window.
 - **String Lights** — Improving existing string lights with brighter bulbs and custom shades.
-- **Chuck's Backyard Audio** — A backyard audio and streaming system, spun off from the 8-Track Robot project.
+- **Skipper's Backyard Audio** — A backyard audio and streaming system, spun off from the 8-Track Robot project.
 - **Battery Charger** — Diagnosis and attempted repair of a Milwaukee battery charger.
-- **3D Printer** — Restoration and improvement of a Velleman K8200 3D printer.
-- **meebleep-triode** - A 40+ yead old promise for a friend
 
 ## About This Collection
 
